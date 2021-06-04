@@ -1,5 +1,10 @@
 .ipynb_checkpoints
 .vscode
+env
 utilities.py
 Untitled1.ipynb
 Webmining.ipynb
+Apriorialgo.ipynb
+Kmeansalgo.ipynb
+NaiveBayesalgo.ipynb
+data/apriori.csv
